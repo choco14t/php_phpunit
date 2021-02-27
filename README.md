@@ -37,3 +37,6 @@ $
 
 三条項BSDライセンス (3-clause BSD license)です。
 詳しくはプロジェクト直下のLICENSEを読んでください。
+
+
+sanmple
