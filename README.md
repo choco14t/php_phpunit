@@ -6,7 +6,7 @@ TDDBC for PHP with PHPUnit
 動作環境
 --------
 
-* PHP7.2以上
+* PHP7.3以上
 
 セットアップ
 ------------
